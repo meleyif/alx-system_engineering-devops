@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /root/alx-system_engineering-devops/0x01-shell_permissions /root/alx-system_engineering-devops/0x01-shell_permissions | chgrp vincent _hello
+chown vincent _hello | chgrp staff _hello
