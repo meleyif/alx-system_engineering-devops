@@ -1,2 +1,2 @@
 #!/bin/bash
-touch iamafile /temp
+file -F iamafile /temp
