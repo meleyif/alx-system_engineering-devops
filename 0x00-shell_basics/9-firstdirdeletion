@@ -1,2 +1,2 @@
-#!/n/ibash
+#!/bin/bash
 find . -type d -iname 'my_first_directory' -empty -delete
