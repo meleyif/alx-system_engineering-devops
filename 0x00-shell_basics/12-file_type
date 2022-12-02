@@ -1,2 +1,2 @@
 #!/bin/bash
-strip --info /temp/iamafile
+touch /temp/iamafile | less iamafile
