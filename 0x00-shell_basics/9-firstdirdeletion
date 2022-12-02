@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -iname 'my_first_directory' -delete
+rm –rf /my_first_directory
