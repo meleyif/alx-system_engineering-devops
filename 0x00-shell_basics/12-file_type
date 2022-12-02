@@ -1,2 +1,2 @@
 #!/bin/bash
-less /temp/iamafile
+strip --info /temp/iamafile
