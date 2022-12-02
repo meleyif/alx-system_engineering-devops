@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ -O guillaume] | then chown betty hello
+find . -user guillaum -group root | xargs root betty
