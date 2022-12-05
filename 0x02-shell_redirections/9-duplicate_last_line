@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -n 1 iacta | cat >> iacta
+l -n 1 iacta | cat >> iacta
