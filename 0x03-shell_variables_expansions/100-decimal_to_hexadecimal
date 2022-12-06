@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n' $DESIMAL
+printf '%1.6n' $DESIMAL
