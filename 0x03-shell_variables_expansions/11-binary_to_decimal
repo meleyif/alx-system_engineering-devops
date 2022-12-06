@@ -1,2 +1,2 @@
 #!/bin/bash
-echo bc | ibase=10
+echo  | ibase=10
