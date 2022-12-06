@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%1.6n' $DESIMAL
+echo -n "The decimal value of $@=" | echo "ibase=16; $@"

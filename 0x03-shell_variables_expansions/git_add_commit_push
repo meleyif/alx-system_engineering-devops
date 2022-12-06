@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . | git commit -m 'new' | git push
+git add . | git commit -m 'new' | git push | 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
